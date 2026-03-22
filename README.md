@@ -11,7 +11,9 @@ Markdown of my CV
 ## **📞 CONTACT**
 
 📞 064 657 6303
+
 📧 240291573@mycput.ac.za
+
 📍 Cape Town, South Africa  
 
 ---
@@ -23,12 +25,12 @@ https://gpm-digitalconcepts.netlify.app/
 
 ## **🎓 EDUCATION**
 
-2019 – 2023
-**High Scool**
+2019 – 2023<br>
+**High Scool**<br>
 Hoerskool Drie Riviere
 
-2024 – Present
-**Diploma in ICT:Multimedia**
+2024 – Present<br>
+**Diploma in ICT:Multimedia**<br>
 Cape Peninsula University of Technology
 
 ---
@@ -55,7 +57,7 @@ Cape Peninsula University of Technology
 
 </td>
 
-<td width="65%" valign="top">
+<td width="65%" valign="top" >
 
 # **GOITSEMANG PATIENCE MAROKOANE**
 
@@ -71,33 +73,34 @@ and leadership to bring clarity and precision to every project.
 ## **🚀 PROJECTS**
 
 ### **Web Development**
-• Developed a simple Vue.js web application for a coffee shop frontend. 
-• Built a hair braiding business website with frontend, backend, and database 
-integration. 
-• Created a login and sign-up system linked to a shopping cart feature. 
+- Developed a simple Vue.js web application for a coffee shop frontend.
+- Built a hair braiding business website with frontend, backend, and database 
+integration.
+- Created a login and sign-up system linked to a shopping cart feature. 
 
 ### **Brand Design**
-• Designed logos for my personal brand and fictional brands. 
-• Created brand guidelines, mock-ups, and visual identities. 
-• Developed basic marketing strategies. 
+- Designed logos for my personal brand and fictional brands. 
+- Created brand guidelines, mock-ups, and visual identities. 
+- Developed basic marketing strategies. 
 
 ### **UX/UI Design**
-• Redesigned the myRunway mobile application. 
-• Created wireframes, mock-ups, and interactive prototypes for a project 
+- Redesigned the myRunway mobile application. 
+- Created wireframes, mock-ups, and interactive prototypes for a project 
 focused on developing a technical solution to address unemployment.
-• Built a design system for a startup business (AfterCare).
+- Built a design system for a startup business (AfterCare).
 
 ---
 ## **✅ REFERENCES**
 
 **Meagan Hamman**
-Cape Peninsula University of Technology 
-HammanM@cput.ac.za | 021 460 3752 
+
+Cape Peninsula University of Technology<br>
+HammanM@cput.ac.za | 021 460 3752<br>
 Lecturer at CPUT 
  
 **Palesa Monyatsi** 
-Braided by Sekae 
-Pearlpalesa74@gmail.com | 081 756 0407 
+Braided by Sekae<br>
+Pearlpalesa74@gmail.com | 081 756 0407<br>
 Client 
 
 ---
